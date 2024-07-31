@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img height="400px" src="https://github.com/Abdelmalek-Djemaa/Abdelmalek-Djemaa/blob/a8bdf460250f6de395ce4a59869ba08f069b339a/head.png" />
+  <img height="200" src="https://github.com/Abdelmalek-Djemaa/Abdelmalek-Djemaa/blob/a8bdf460250f6de395ce4a59869ba08f069b339a/head.png" />
   
 ###
 
