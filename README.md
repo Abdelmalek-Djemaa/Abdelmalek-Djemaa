@@ -10,11 +10,6 @@
 </div>
 
 ###
-<div align="center">
-  <img height="300" src="https://github.com/Abdelmalek-Djemaa/Abdelmalek-Djemaa/blob/a8bdf460250f6de395ce4a59869ba08f069b339a/head.png" />
-</div>
-
-###
 
 <div align="center">
 <a href="https://www.linkedin.com/in/abdelmalek-djemaa-673864317" target="_blank">
