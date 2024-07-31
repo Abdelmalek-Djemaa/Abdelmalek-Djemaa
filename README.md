@@ -1,6 +1,6 @@
 <h1 align="center" >Hi there 👋</h1>
 
-<h1 align="center"> I'm <span style="color: #3b82f6;"> Abdelmalek </span> </h1>
+<h1 align="center"> 👋 I'm Abdelmalek 👋 </h1>
 
 ###
 <div align="center">
