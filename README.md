@@ -1,7 +1,7 @@
 <h1 align="center" >Hi there 👋</h1>
 
 ###
-<div>
+<div align="center">
     <p>
     Results-driven Artificial Intelligence Student with a solid background in machine learning and deep learning algorithms. Skilled in developing AI and ML models and analyzing complex data sets. Seeking to leverage my expertise to drive innovation and advance AI technologies.
 </p>
