@@ -69,7 +69,7 @@
 ###
 
 <div align="center">
-  <p>Check out my portfolio:</p>
+  <p>Check out my portfolio</p>
   <a href="https://abdelmalek-djemaa.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=007BFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
   </a>
