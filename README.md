@@ -1,16 +1,25 @@
 <h1 align="center" >Hi there 👋</h1>
 
 ###
-<div align="center">
-<a href="https://www.linkedin.com/in/abdelmalek-djemaa-673864317" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</a>
+<div>
+    <p>
+    Results-driven Artificial Intelligence Student with a solid background in machine learning and deep learning algorithms. Skilled in developing AI and ML models and analyzing complex data sets. Seeking to leverage my expertise to drive innovation and advance AI technologies.
+</p>
 </div>
 
 ###
 <div align="center">
   <img height="300" src="https://github.com/Abdelmalek-Djemaa/Abdelmalek-Djemaa/blob/a8bdf460250f6de395ce4a59869ba08f069b339a/head.png" />
 </div>
+
+###
+
+<div align="center">
+<a href="https://www.linkedin.com/in/abdelmalek-djemaa-673864317" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</a>
+</div>
+
 ###
 
 <div align="center">
